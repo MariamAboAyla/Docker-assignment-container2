@@ -1,0 +1,5 @@
+mariam;20190518;cs,os,sw1,programming1
+sayed;20190253;os,sw2,algorithms
+ibrahim;20190008;os,sw2,programming2,ml
+menna;20190558;english,arabic,os,cs
+nour;20190778;os,ps,sw2
